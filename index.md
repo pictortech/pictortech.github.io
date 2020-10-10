@@ -11,17 +11,20 @@ sections:
     #background_style: bg-info
     title: Our Services
     services:
-      - title: PHP Expertise
-        text: We can help with any request related to PHP
-        icon: fa-gem text-info
-      - title: Drupal Expertise
-        text: We have members that are expert in Drupal
-        icon: fa-paper-plane
-      - title: CI/CD
-        text: Get ready to ship your software faster!
+      - title: Coding
+        text: PHP Expert and able to help on various frameworks like Symfony, Laravel, Drupal
+        icon: fa-laptop-code
+      - title: DevOps
+        text: We help you setup or improve your CI/CD environment
+        icon: fa-laptop-code
+      - title: QA Automation
+        text: Need help with automating your tests? We got you covered!
+        icon: fa-laptop-code
+      - title: Analysis
+        text: We work with you to understand what you want
         icon: fa-laptop-code
       - title: Made with Love
-        text: We love what we do
+        text: We love what we do, that's why we do it well
         icon: fa-heart
 
   - type: contact.html
